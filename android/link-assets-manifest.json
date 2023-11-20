@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/images/clorot.jpeg",
+      "sha1": "4c200c63721737c90e50a59311f483ad744f2320"
+    },
+    {
+      "path": "src/assets/images/getuk.jpeg",
+      "sha1": "ba9d4c11764510c825e475b366d70ea5f734baf9"
+    },
+    {
+      "path": "src/assets/images/index.js",
+      "sha1": "c67deb734be140062745a6e02aaa603b6d07bbab"
+    },
+    {
+      "path": "src/assets/images/klepon.jpeg",
+      "sha1": "c485fa048626a8f97f02b451d5c05996a5cce71e"
+    },
+    {
+      "path": "src/assets/images/kue_lumpur.jpeg",
+      "sha1": "887671c4f361b7598ef2addaee55acb3409ce1cb"
+    },
+    {
+      "path": "src/assets/images/putu.jpeg",
+      "sha1": "7aec2e9f7fb93cb6ab7a2453c2b79eb9d9dd8563"
+    },
+    {
+      "path": "src/assets/images/putu_mayang.jpeg",
+      "sha1": "c86a48006d38ca407d27d0ac93fcc42c16be6711"
+    }
+  ]
+}
