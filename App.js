@@ -36,8 +36,6 @@ export default function App() {
       <Dashboard />
       </ScrollView>
 
-
-
       <View style={styles.container}>
         <ScrollView horizontal showsHorizontalScrollIndicator={false}>
           <View style={{...category.item, marginLeft: 20, marginBottom: 20}}>
