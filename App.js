@@ -12,12 +12,10 @@ export default function App() {
         <Text style={styles.title}>JAPAS</Text>
         <Notification color={colors.white()} variant="Linear" size={30} />
       </View>
-
       <View style={styles.alamat}>
         <Location color={colors.blue()} variant="Linear" size={20} />
         <Text style={styles.alamat}>Malang, Nov 15, 2023</Text>
       </View>
-    
       <View style={styles.listCategory}>
         <ScrollView horizontal showsHorizontalScrollIndicator={false}>
           <View style={{...category1.item, marginBottom: 20}}>
@@ -31,11 +29,9 @@ export default function App() {
           </View>
         </ScrollView>
       </View>
-
       <ScrollView>
       <Dashboard />
       </ScrollView>
-
       <View style={styles.container}>
         <ScrollView horizontal showsHorizontalScrollIndicator={false}>
           <View style={{...category.item, marginLeft: 20, marginBottom: 20}}>
@@ -43,8 +39,7 @@ export default function App() {
               Beranda
             </Text>
           </View>
-          <View style={styles.container}>
-            
+          <View style={styles.container}> 
           </View>
           <View style={{...category.item, marginBottom: 20}}>
             <Text style={category.title}>Keranjang</Text>
