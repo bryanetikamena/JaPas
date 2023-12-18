@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875102795213",
+    "project_id": "japas-b43ac",
+    "storage_bucket": "japas-b43ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875102795213:android:80869458ddb8b19bd20084",
+        "android_client_info": {
+          "package_name": "com.japas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC1u3yYt4x6qOb8HedSv_Ro7CeWxg2v1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
